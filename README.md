@@ -2,7 +2,7 @@
 
 # hai :3 
 
-i don't often use github, i primarily use git.gay, you can view my profile [here](https://git.gay/iris).
+i'm only now migrating to github, from git.gay. some of my projects not on github might be here: [here](https://git.gay/iris).
 
 <a href="https://pillowfort.social/posts/1632320">
   <img alt="A horizontal transgender flag - blue, pink, white, pink, blue going across horizontally."
